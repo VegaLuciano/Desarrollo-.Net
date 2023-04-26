@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WF_Ejercicio_C03/1.0.0": {
+        "dependencies": {
+          "WF_Conversor": "1.0.0"
+        },
+        "runtime": {
+          "WF_Ejercicio_C03.dll": {}
+        }
+      },
+      "WF_Conversor/1.0.0": {
+        "runtime": {
+          "WF_Conversor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WF_Ejercicio_C03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WF_Conversor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

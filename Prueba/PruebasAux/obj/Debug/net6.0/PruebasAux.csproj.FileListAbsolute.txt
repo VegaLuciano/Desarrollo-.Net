@@ -1,0 +1,15 @@
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\PruebasAux\bin\Debug\net6.0\PruebasAux.exe
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\PruebasAux\bin\Debug\net6.0\PruebasAux.deps.json
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\PruebasAux\bin\Debug\net6.0\PruebasAux.runtimeconfig.json
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\PruebasAux\bin\Debug\net6.0\PruebasAux.dll
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\PruebasAux\bin\Debug\net6.0\PruebasAux.pdb
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\PruebasAux\obj\Debug\net6.0\PruebasAux.csproj.AssemblyReference.cache
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\PruebasAux\obj\Debug\net6.0\PruebasAux.GeneratedMSBuildEditorConfig.editorconfig
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\PruebasAux\obj\Debug\net6.0\PruebasAux.AssemblyInfoInputs.cache
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\PruebasAux\obj\Debug\net6.0\PruebasAux.AssemblyInfo.cs
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\PruebasAux\obj\Debug\net6.0\PruebasAux.csproj.CoreCompileInputs.cache
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\PruebasAux\obj\Debug\net6.0\PruebasAux.dll
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\PruebasAux\obj\Debug\net6.0\refint\PruebasAux.dll
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\PruebasAux\obj\Debug\net6.0\PruebasAux.pdb
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\PruebasAux\obj\Debug\net6.0\PruebasAux.genruntimeconfig.cache
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\PruebasAux\obj\Debug\net6.0\ref\PruebasAux.dll

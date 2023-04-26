@@ -1,0 +1,15 @@
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\TranformarBinarios\obj\Debug\net6.0\TranformarBinarios.csproj.AssemblyReference.cache
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\TranformarBinarios\obj\Debug\net6.0\TranformarBinarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\TranformarBinarios\obj\Debug\net6.0\TranformarBinarios.AssemblyInfoInputs.cache
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\TranformarBinarios\obj\Debug\net6.0\TranformarBinarios.AssemblyInfo.cs
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\TranformarBinarios\obj\Debug\net6.0\TranformarBinarios.csproj.CoreCompileInputs.cache
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\TranformarBinarios\bin\Debug\net6.0\TranformarBinarios.exe
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\TranformarBinarios\bin\Debug\net6.0\TranformarBinarios.deps.json
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\TranformarBinarios\bin\Debug\net6.0\TranformarBinarios.runtimeconfig.json
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\TranformarBinarios\bin\Debug\net6.0\TranformarBinarios.dll
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\TranformarBinarios\bin\Debug\net6.0\TranformarBinarios.pdb
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\TranformarBinarios\obj\Debug\net6.0\TranformarBinarios.dll
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\TranformarBinarios\obj\Debug\net6.0\refint\TranformarBinarios.dll
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\TranformarBinarios\obj\Debug\net6.0\TranformarBinarios.pdb
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\TranformarBinarios\obj\Debug\net6.0\TranformarBinarios.genruntimeconfig.cache
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\TranformarBinarios\obj\Debug\net6.0\ref\TranformarBinarios.dll

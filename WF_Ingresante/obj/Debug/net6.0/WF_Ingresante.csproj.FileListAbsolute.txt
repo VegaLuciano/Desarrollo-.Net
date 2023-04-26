@@ -1,0 +1,12 @@
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Ingresante\bin\Debug\net6.0\WF_Ingresante.deps.json
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Ingresante\bin\Debug\net6.0\WF_Ingresante.dll
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Ingresante\bin\Debug\net6.0\WF_Ingresante.pdb
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Ingresante\obj\Debug\net6.0\WF_Ingresante.csproj.AssemblyReference.cache
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Ingresante\obj\Debug\net6.0\WF_Ingresante.GeneratedMSBuildEditorConfig.editorconfig
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Ingresante\obj\Debug\net6.0\WF_Ingresante.AssemblyInfoInputs.cache
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Ingresante\obj\Debug\net6.0\WF_Ingresante.AssemblyInfo.cs
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Ingresante\obj\Debug\net6.0\WF_Ingresante.csproj.CoreCompileInputs.cache
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Ingresante\obj\Debug\net6.0\WF_Ingresante.dll
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Ingresante\obj\Debug\net6.0\refint\WF_Ingresante.dll
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Ingresante\obj\Debug\net6.0\WF_Ingresante.pdb
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Ingresante\obj\Debug\net6.0\ref\WF_Ingresante.dll

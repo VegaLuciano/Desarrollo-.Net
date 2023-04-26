@@ -1,0 +1,12 @@
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_EnciendanSusMotores\bin\Debug\net6.0\CL_EnciendanSusMotores.deps.json
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_EnciendanSusMotores\bin\Debug\net6.0\CL_EnciendanSusMotores.dll
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_EnciendanSusMotores\bin\Debug\net6.0\CL_EnciendanSusMotores.pdb
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_EnciendanSusMotores\obj\Debug\net6.0\CL_EnciendanSusMotores.csproj.AssemblyReference.cache
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_EnciendanSusMotores\obj\Debug\net6.0\CL_EnciendanSusMotores.GeneratedMSBuildEditorConfig.editorconfig
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_EnciendanSusMotores\obj\Debug\net6.0\CL_EnciendanSusMotores.AssemblyInfoInputs.cache
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_EnciendanSusMotores\obj\Debug\net6.0\CL_EnciendanSusMotores.AssemblyInfo.cs
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_EnciendanSusMotores\obj\Debug\net6.0\CL_EnciendanSusMotores.csproj.CoreCompileInputs.cache
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_EnciendanSusMotores\obj\Debug\net6.0\CL_EnciendanSusMotores.dll
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_EnciendanSusMotores\obj\Debug\net6.0\refint\CL_EnciendanSusMotores.dll
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_EnciendanSusMotores\obj\Debug\net6.0\CL_EnciendanSusMotores.pdb
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_EnciendanSusMotores\obj\Debug\net6.0\ref\CL_EnciendanSusMotores.dll

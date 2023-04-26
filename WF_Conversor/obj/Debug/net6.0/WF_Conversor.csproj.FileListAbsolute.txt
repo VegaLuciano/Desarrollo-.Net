@@ -1,0 +1,12 @@
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Conversor\bin\Debug\net6.0\WF_Conversor.deps.json
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Conversor\bin\Debug\net6.0\WF_Conversor.dll
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Conversor\bin\Debug\net6.0\WF_Conversor.pdb
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Conversor\obj\Debug\net6.0\WF_Conversor.csproj.AssemblyReference.cache
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Conversor\obj\Debug\net6.0\WF_Conversor.GeneratedMSBuildEditorConfig.editorconfig
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Conversor\obj\Debug\net6.0\WF_Conversor.AssemblyInfoInputs.cache
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Conversor\obj\Debug\net6.0\WF_Conversor.AssemblyInfo.cs
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Conversor\obj\Debug\net6.0\WF_Conversor.csproj.CoreCompileInputs.cache
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Conversor\obj\Debug\net6.0\WF_Conversor.dll
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Conversor\obj\Debug\net6.0\refint\WF_Conversor.dll
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Conversor\obj\Debug\net6.0\WF_Conversor.pdb
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\WF_Conversor\obj\Debug\net6.0\ref\WF_Conversor.dll

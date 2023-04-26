@@ -1,0 +1,15 @@
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_Ejercicio_C03\bin\Debug\net6.0\CL_Ejercicio_C03.exe
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_Ejercicio_C03\bin\Debug\net6.0\CL_Ejercicio_C03.deps.json
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_Ejercicio_C03\bin\Debug\net6.0\CL_Ejercicio_C03.runtimeconfig.json
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_Ejercicio_C03\bin\Debug\net6.0\CL_Ejercicio_C03.dll
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_Ejercicio_C03\bin\Debug\net6.0\CL_Ejercicio_C03.pdb
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_Ejercicio_C03\obj\Debug\net6.0\CL_Ejercicio_C03.csproj.AssemblyReference.cache
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_Ejercicio_C03\obj\Debug\net6.0\CL_Ejercicio_C03.GeneratedMSBuildEditorConfig.editorconfig
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_Ejercicio_C03\obj\Debug\net6.0\CL_Ejercicio_C03.AssemblyInfoInputs.cache
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_Ejercicio_C03\obj\Debug\net6.0\CL_Ejercicio_C03.AssemblyInfo.cs
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_Ejercicio_C03\obj\Debug\net6.0\CL_Ejercicio_C03.csproj.CoreCompileInputs.cache
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_Ejercicio_C03\obj\Debug\net6.0\CL_Ejercicio_C03.dll
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_Ejercicio_C03\obj\Debug\net6.0\refint\CL_Ejercicio_C03.dll
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_Ejercicio_C03\obj\Debug\net6.0\CL_Ejercicio_C03.pdb
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_Ejercicio_C03\obj\Debug\net6.0\CL_Ejercicio_C03.genruntimeconfig.cache
+D:\PrograLaboII\Soluciones\LucianoVega.Clases\CL_Ejercicio_C03\obj\Debug\net6.0\ref\CL_Ejercicio_C03.dll

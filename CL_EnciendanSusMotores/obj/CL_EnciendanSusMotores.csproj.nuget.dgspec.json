@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\CL_EnciendanSusMotores\\CL_EnciendanSusMotores.csproj": {}
+    "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\CL_EnciendanSusMotores\\CL_EnciendanSusMotores.csproj": {}
   },
   "projects": {
-    "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\CL_EnciendanSusMotores\\CL_EnciendanSusMotores.csproj": {
+    "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\CL_EnciendanSusMotores\\CL_EnciendanSusMotores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\CL_EnciendanSusMotores\\CL_EnciendanSusMotores.csproj",
+        "projectUniqueName": "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\CL_EnciendanSusMotores\\CL_EnciendanSusMotores.csproj",
         "projectName": "CL_EnciendanSusMotores",
-        "projectPath": "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\CL_EnciendanSusMotores\\CL_EnciendanSusMotores.csproj",
+        "projectPath": "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\CL_EnciendanSusMotores\\CL_EnciendanSusMotores.csproj",
         "packagesPath": "C:\\Users\\Urano\\.nuget\\packages\\",
-        "outputPath": "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\CL_EnciendanSusMotores\\obj\\",
+        "outputPath": "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\CL_EnciendanSusMotores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Urano\\AppData\\Roaming\\NuGet\\NuGet.Config",

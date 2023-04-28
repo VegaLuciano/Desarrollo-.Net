@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\CM_EJercicio_I08\\CM_EJercicio_I08.csproj",
+      "projectUniqueName": "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\CM_EJercicio_I08\\CM_EJercicio_I08.csproj",
       "projectName": "CM_EJercicio_I08",
-      "projectPath": "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\CM_EJercicio_I08\\CM_EJercicio_I08.csproj",
+      "projectPath": "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\CM_EJercicio_I08\\CM_EJercicio_I08.csproj",
       "packagesPath": "C:\\Users\\Urano\\.nuget\\packages\\",
-      "outputPath": "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\CM_EJercicio_I08\\obj\\",
+      "outputPath": "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\CM_EJercicio_I08\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Urano\\AppData\\Roaming\\NuGet\\NuGet.Config",

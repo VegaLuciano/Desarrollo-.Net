@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\TranformarBinarios\\CM_Ejercicio_I03.csproj": {}
+    "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\TranformarBinarios\\CM_Ejercicio_I03.csproj": {}
   },
   "projects": {
-    "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\TranformarBinarios\\CM_Ejercicio_I03.csproj": {
+    "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\TranformarBinarios\\CM_Ejercicio_I03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\TranformarBinarios\\CM_Ejercicio_I03.csproj",
+        "projectUniqueName": "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\TranformarBinarios\\CM_Ejercicio_I03.csproj",
         "projectName": "CM_Ejercicio_I03",
-        "projectPath": "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\TranformarBinarios\\CM_Ejercicio_I03.csproj",
+        "projectPath": "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\TranformarBinarios\\CM_Ejercicio_I03.csproj",
         "packagesPath": "C:\\Users\\Urano\\.nuget\\packages\\",
-        "outputPath": "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\TranformarBinarios\\obj\\",
+        "outputPath": "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\TranformarBinarios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Urano\\AppData\\Roaming\\NuGet\\NuGet.Config",

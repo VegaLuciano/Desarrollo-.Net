@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\Billetes\\Sc_Billetes.csproj": {}
+    "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\Billetes\\Sc_Billetes.csproj": {}
   },
   "projects": {
-    "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\Billetes\\Sc_Billetes.csproj": {
+    "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\Billetes\\Sc_Billetes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\Billetes\\Sc_Billetes.csproj",
+        "projectUniqueName": "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\Billetes\\Sc_Billetes.csproj",
         "projectName": "Sc_Billetes",
-        "projectPath": "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\Billetes\\Sc_Billetes.csproj",
+        "projectPath": "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\Billetes\\Sc_Billetes.csproj",
         "packagesPath": "C:\\Users\\Urano\\.nuget\\packages\\",
-        "outputPath": "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\Billetes\\obj\\",
+        "outputPath": "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\Billetes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Urano\\AppData\\Roaming\\NuGet\\NuGet.Config",

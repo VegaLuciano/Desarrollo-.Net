@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\CM_Ejercicio_05\\CM_Ejercicio_I05.csproj": {}
+    "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\CM_Ejercicio_05\\CM_Ejercicio_I05.csproj": {}
   },
   "projects": {
-    "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\CM_Ejercicio_05\\CM_Ejercicio_I05.csproj": {
+    "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\CM_Ejercicio_05\\CM_Ejercicio_I05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\CM_Ejercicio_05\\CM_Ejercicio_I05.csproj",
+        "projectUniqueName": "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\CM_Ejercicio_05\\CM_Ejercicio_I05.csproj",
         "projectName": "CM_Ejercicio_I05",
-        "projectPath": "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\CM_Ejercicio_05\\CM_Ejercicio_I05.csproj",
+        "projectPath": "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\CM_Ejercicio_05\\CM_Ejercicio_I05.csproj",
         "packagesPath": "C:\\Users\\Urano\\.nuget\\packages\\",
-        "outputPath": "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\CM_Ejercicio_05\\obj\\",
+        "outputPath": "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\CM_Ejercicio_05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Urano\\AppData\\Roaming\\NuGet\\NuGet.Config",

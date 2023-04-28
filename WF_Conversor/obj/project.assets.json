@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\WF_Conversor\\WF_Conversor.csproj",
+      "projectUniqueName": "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\WF_Conversor\\WF_Conversor.csproj",
       "projectName": "WF_Conversor",
-      "projectPath": "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\WF_Conversor\\WF_Conversor.csproj",
+      "projectPath": "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\WF_Conversor\\WF_Conversor.csproj",
       "packagesPath": "C:\\Users\\Urano\\.nuget\\packages\\",
-      "outputPath": "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\WF_Conversor\\obj\\",
+      "outputPath": "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\WF_Conversor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Urano\\AppData\\Roaming\\NuGet\\NuGet.Config",

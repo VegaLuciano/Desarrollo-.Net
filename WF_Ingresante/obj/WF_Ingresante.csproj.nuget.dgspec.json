@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\WF_Ingresante\\WF_Ingresante.csproj": {}
+    "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\WF_Ingresante\\WF_Ingresante.csproj": {}
   },
   "projects": {
-    "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\WF_Ingresante\\WF_Ingresante.csproj": {
+    "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\WF_Ingresante\\WF_Ingresante.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\WF_Ingresante\\WF_Ingresante.csproj",
+        "projectUniqueName": "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\WF_Ingresante\\WF_Ingresante.csproj",
         "projectName": "WF_Ingresante",
-        "projectPath": "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\WF_Ingresante\\WF_Ingresante.csproj",
+        "projectPath": "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\WF_Ingresante\\WF_Ingresante.csproj",
         "packagesPath": "C:\\Users\\Urano\\.nuget\\packages\\",
-        "outputPath": "D:\\PrograLaboII\\Soluciones\\LucianoVega.Clases\\WF_Ingresante\\obj\\",
+        "outputPath": "D:\\PrograLaboII\\Soluciones\\GithubRepoC#\\WF_Ingresante\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Urano\\AppData\\Roaming\\NuGet\\NuGet.Config",
